@@ -362,7 +362,7 @@ Programming
                 
                 switch(type) {
                     case 'discord':
-                        url = 'https://discord.gg/yourlink';
+                        url ='https://discord.gg/BP4n8Sz9uC';
                         break;
                     case 'telegram':
                         url = 'https://t.me/yourchannel';
@@ -371,7 +371,7 @@ Programming
                         url = 'https://github.com/yourprofile';
                         break;
                     case 'email':
-                        url = 'mailto:youremail@example.com';
+                        url = 'tlion9875@gmail.com';
                         break;
                 }
                 
